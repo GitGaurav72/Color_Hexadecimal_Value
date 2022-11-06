@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/rate_my_app"
+          android:title="Rate This App"
+          android:icon="@drawable/star_r"
+          app:showAsAction="always"
+        />
+    <item android:id="@+id/privacy_policy"
+        android:title="Privacy Policy"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/privacy_tip_"
+        />
+    <item android:id="@+id/share_my_app"
+          android:title="Share"
+          android:icon="@drawable/share_my_app"
+          app:showAsAction="always"
+        />
+
+</menu>
