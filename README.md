@@ -6,3 +6,16 @@ Often when we code in html, css and xml then we need hexadecimal value of partic
 Steps for finding hexa value, just use color wheel and here you get information for that particular color...Sounds Good!
 
 In a nutshell this TelHex Code App gives you Hexadecimal value of any color.
+
+# ScreenShots
+
+[![1st](https://github.com/GitGaurav72/Color_Hexadecimal_Value/blob/main/screenshots/1st.jpg
+)]
+[![1st](https://github.com/GitGaurav72/Color_Hexadecimal_Value/blob/main/screenshots/2nd.jpg)]
+
+[![1st](https://github.com/GitGaurav72/Color_Hexadecimal_Value/blob/main/screenshots/3rd.jpg)]
+
+[![1st](https://github.com/GitGaurav72/Color_Hexadecimal_Value/blob/main/screenshots/4th.jpg)]
+
+[![1st](https://github.com/GitGaurav72/Color_Hexadecimal_Value/blob/main/screenshots/5th.jpg)]
+
